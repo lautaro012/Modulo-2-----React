@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: center;
+    padding: 5px
+}
+
+.divendiv {
+    background-color: grey;
+    padding: 5px;
+}
+
+.btn {
+    background-color: darkgrey;
+    color: green;
+    border-color: green;
+    border-radius: 2px;
+}
